@@ -74,7 +74,7 @@
 	<li>Не стоит использовать разные расширения для браузеров по поиску XPath: они подбирают нечитабельные и переусложненные&nbsp;селекторы. Лучше потратить немного времени и разобраться в синтаксисе самостоятельно, тем более, что он не очень сложный.</li>
 </ul>
 
-<p>В курсе мы не будем работать с XPath-селекторами, и в основном будем использовать CSS. В случае необходимости можно познакомиться с XPath подробнее по следующим ссылкам:</p>
+<p>В случае необходимости можно познакомиться с XPath подробнее по следующим ссылкам:</p>
 
 <p><a href="https://www.w3schools.com/xml/xpath_syntax.asp" rel="nofollow noopener noreferrer" style="font-size: inherit; font-weight: inherit;" title="Link: https://www.w3schools.com/xml/xpath_syntax.asp" target="_blank">https://www.w3schools.com/xml/xpath_syntax.asp</a></p>
 
